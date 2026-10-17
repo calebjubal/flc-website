@@ -27,6 +27,7 @@ const Footer = () => {
               <a href="/sermons" className="block hover:underline">Sermons</a>
               <a href="#events" className="block hover:underline">Events</a>
               <a href="#give" className="block hover:underline">Give</a>
+              <a href="https://www.google.com" className="block hover:underline">Dev Contact</a>
             </nav>
           </div>
 
